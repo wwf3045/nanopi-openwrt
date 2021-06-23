@@ -127,8 +127,8 @@ CONFIG_BUSYBOX_CONFIG_FEATURE_MOUNT_NFS=y
 CONFIG_PACKAGE_kmod-fs-nfs=y
 CONFIG_PACKAGE_kmod-fs-nfs-common=y
 CONFIG_PACKAGE_kmod-fs-nfs-common-rpcsec=y
-CONFIG_PACKAGE_kmod-fs-nfs-v3=y
-CONFIG_PACKAGE_kmod-fs-nfs-v4=y
+
+
 CONFIG_PACKAGE_kmod-fs-nfsd=y
 CONFIG_PACKAGE_luci-app-nfs=y
 CONFIG_PACKAGE_luci-i18n-nfs-zh-cn=y
